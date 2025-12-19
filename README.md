@@ -5,7 +5,7 @@
 [SQL Query Script](advanced_sql.sql)
 
 # URL 
-[Download Power BI Dashbaord](https://powerbi.salesinsights.pbix)
+[Download Power BI Dashbaord](https://google.com/)
 
 
 # IMAGE
