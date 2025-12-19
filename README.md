@@ -1,13 +1,18 @@
-# SQL Queries and Analysis
-[View the SQL Query Script](advanced_sql.sql)
+# LINK
+[View Power Bi Dashboard](SalesInsights.pbix)
 
-# Execution and Output
-Query output - 1:
+# SQL Script 
+[SQL Query Script](advanced_sql.sql)
+
+# URL 
+[Download Power BI Dashbaord](https://powerbi.salesinsights.pbix)
+
+
+# IMAGE
 ![Query Output - 1](/Images/query-output-1.png)
+![Query Output - 2](/Images/query-output-2.png)
 
-Query Output - 2:
-![Query Output - 2](/Images/query-output-3.png)
-
-# Technology Stack:
-
+# Datasets
+# Table - colleges
+[Table name: colleges](/Datasets/colleges.csv)
 
