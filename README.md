@@ -10,9 +10,13 @@
 
 # IMAGE
 ![Query Output - 1](/Images/query-output-1.png)
-![Query Output - 2](/Images/query-output-2.png)
+![Query Output - 2](/Images/query-output-3.png)
 
 # Datasets
 # Table - colleges
-[Table name: colleges](/Datasets/colleges.csv)
+[View Table name: colleges](/Datasets/colleges.csv)
+
+# Table - students
+[View Table name: students](/Datasets/students.csv)
+
 
