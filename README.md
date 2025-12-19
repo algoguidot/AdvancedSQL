@@ -1,2 +1,2 @@
-# AdvancedSQL
-EdTech AI Implementation Insights using Advanced SQL
+# SQL Queries and Analysis
+[View the SQL Query Script](advanced_sql.sql)
