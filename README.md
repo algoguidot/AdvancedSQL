@@ -8,3 +8,6 @@ Query output - 1:
 Query Output - 2:
 ![Query Output - 2](/Images/query-output-3.png)
 
+# Technology Stack:
+
+
